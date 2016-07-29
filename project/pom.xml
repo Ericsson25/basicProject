@@ -14,5 +14,6 @@
 	<description>It brings together the web and core components</description>
 	<modules>
 		<module>admin-web</module>
+		<module>online-core</module>
 	</modules>
 </project>
