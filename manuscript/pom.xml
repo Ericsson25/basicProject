@@ -1,0 +1,15 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>mainpom</groupId>
+		<artifactId>mainpom</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	<groupId>manuscript</groupId>
+	<artifactId>manuscript</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<name>Manuscript</name>
+	<description>It brings together the web and core components</description>
+</project>
