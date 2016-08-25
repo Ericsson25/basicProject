@@ -6,15 +6,9 @@
 		<artifactId>mainpom</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<groupId>manuscript.project</groupId>
-	<artifactId>manuscript-bundle</artifactId>
+	<groupId>manuscript.module.registration</groupId>
+	<artifactId>manuscriptregistration</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<name>Manuscript Bundle</name>
-	<description>It brings together the web and core components</description>
-	<modules>
-		<module>admin-web</module>
-		<module>online-core</module>
-		<module>online-web</module>
-	</modules>
+	<name>Registration</name>
 </project>
