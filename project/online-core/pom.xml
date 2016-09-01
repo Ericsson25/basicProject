@@ -9,6 +9,7 @@
 	<artifactId>online-core</artifactId>
 	<name>Online Core</name>
 
+
 	<profiles>
 		<profile>
 			<id>mysqldatabasebuild</id>
