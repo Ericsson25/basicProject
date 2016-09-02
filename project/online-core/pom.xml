@@ -9,6 +9,7 @@
 	<artifactId>online-core</artifactId>
 	<name>Online Core</name>
 
+<!-- It is a modification in the exampleBranch -->
 
 	<profiles>
 		<profile>
